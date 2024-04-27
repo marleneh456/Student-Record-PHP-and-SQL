@@ -1,0 +1,268 @@
+/* Name: Marlene Habib */
+/* Instructor: Dr. Yang */
+/* OLA 6 */
+/* ola6.css */
+/* Date: 04-18-2024 */
+/* Due Date: 04-18-2024 */
+
+/* Style for Body */
+
+body {
+	background-color: #D3D3D3;
+}
+
+/* Styles for Heading 2 */ 
+
+h2{
+	font-family: Arial;
+	text-align: center;
+}
+
+/* Style for Paragraph */ 
+
+p{
+	text-align: center;
+}
+
+/* Style for Table */ 
+
+table{
+	font-family: 'Open Sans';
+	text-align: center;
+}
+
+/* Style for Table Header */ 
+
+table th{
+	padding: 8px;
+}
+
+/* Styles for all the students section */
+
+.all-students{
+	color:  #c20094;
+}
+
+.all-students-table {
+  background-color: #660066;
+  margin-left: 110px;  
+}
+
+.all-students-table th{
+  background-color: #d41fd4; 
+}
+
+.all-students-table tr{
+  background-color: #f08ff0; 
+}
+
+.all-students-table td {
+  padding: 10px; 
+}
+
+/* Styles for all the male students section */
+
+.all-male-students{
+	color: #4242a8;
+}
+
+.all-male-students-table {
+  background-color: #000f6e;
+  margin-left: 120px;  
+}
+
+.all-male-students-table th{
+  background-color: #9494fa; 
+}
+
+.all-male-students-table tr{
+  background-color:  #33bdf0; 
+}
+
+.all-male-students-table td {
+  padding: 10px; 
+}
+
+/* Styles for all the female students section */
+
+.all-female-students{
+	color: #ff0066;
+}
+
+.all-female-students-table {
+  background-color: #99003d; 
+  margin-left: 120px;  
+}
+
+.all-female-students-table th{
+  background-color: #ff66a3; 
+}
+
+.all-female-students-table tr{
+  background-color: #ff99c2; 
+}
+
+.all-female-students-table td {
+  padding: 10px; 
+}
+
+/* Styles for all the students over 21 section */
+
+.all-over21-students{
+	color:  #008B8B;
+}
+
+.all-over21-students-table {
+  background-color: #48D1CC; 
+  margin-left: 120px;   
+}
+
+.all-over21-students-table th{
+  background-color: #66ffff; 
+}
+
+.all-over21-students-table tr{
+  background-color: #b3ffff; 
+}
+
+.all-over21-students-table td{
+	padding: 10px;
+}
+
+/* Styles for all the students under 21 section */
+
+.all-under21-students{
+	color:  #556B2F;
+}
+
+.all-under21-students-table {
+  background-color: #00cc00; 
+  margin-left: 120px;
+}
+
+.all-under21-students-table th{
+  background-color: #4dff4d; 
+}
+
+.all-under21-students-table tr{
+  background-color: #99ff99; 
+}
+
+.all-under21-students-table td{
+	padding: 10px;
+}
+
+/* Styles for the number of students' major*/
+
+.all-majors-students{
+	color: #b30000;
+}
+.all-students-major-table {
+  background-color: #e60000; 
+  margin-left: 500px;  
+}
+
+.all-students-major-table th{
+  background-color: #ff9999; 
+}
+
+.all-students-major-table tr{
+  background-color: #ffcccc; 
+}
+
+.all-students-major-table td{
+  padding: 10px; 
+}
+
+
+/* Styles for all the students with no phone number section */
+
+.all-nophonenum-students{
+	color: #b47b31;
+}
+
+.all-nophonenum-students-table {
+  background-color: #b38f00; 
+  margin-left: 200px;  
+}
+
+.all-nophonenum-students-table th{
+  background-color: #ffcc00; 
+}
+
+.all-nophonenum-students-table tr{
+  background-color: #ffe066; 
+}
+
+.all-nophonenum-students-table td{
+  padding: 10px; 
+}
+
+/* Styles for all the insert students section */
+
+.all-insert-students{
+	color: #D2691E;
+}
+
+.all-insert-students-table {
+  background-color: #af411d; 
+  margin-left: 160px;  
+}
+
+.all-insert-students-table th{
+  background-color: #e9967a; 
+}
+
+.all-insert-students-table tr{
+  background-color: #eda891; 
+}
+
+.all-insert-students-table td{
+  padding: 8px;
+}
+
+/* Styles for all the delete students section */
+
+.all-delete-students{
+	color: #a42851;
+}
+
+.all-delete-students-table {
+  background-color: #DB7093;  
+  margin-left: 160px; 
+}
+
+.all-delete-students-table th{
+  background-color: #ebadc2; 
+}
+
+.all-delete-students-table tr{
+  background-color: #ffb3b3; 
+}
+
+.all-delete-students-table td{
+  padding: 8px; 
+}
+
+/* Styles for all the update students section */
+
+.all-update-students{
+	color: #800080;
+}
+
+.all-update-students-table {
+  background-color: #663399;  
+  margin-left: 120px; 
+}
+
+.all-update-students-table th{
+  background-color: #c256c2; 
+}
+
+.all-update-students-table tr{
+  background-color: #dda1dd; 
+}
+
+.all-update-students-table td{
+  padding: 8px; 
+}
