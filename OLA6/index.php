@@ -23,7 +23,7 @@
 	
 	<!-- Link to ola6.css -->
 	
-    <link type="text/css" rel="stylesheet" href="ola6.css" />
+    <link type="text/css" rel="stylesheet" href="index.css" />
 	
 	<!-- Link to Open Sans fonts -->
 	
