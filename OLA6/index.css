@@ -1,7 +1,7 @@
 /* Name: Marlene Habib */
 /* Instructor: Dr. Yang */
 /* OLA 6 */
-/* ola6.css */
+/* index.css */
 /* Date: 04-18-2024 */
 /* Due Date: 04-18-2024 */
 
@@ -45,7 +45,7 @@ table th{
 
 .all-students-table {
   background-color: #660066;
-  margin-left: 110px;  
+  margin-left: 370px;  
 }
 
 .all-students-table th{
@@ -68,7 +68,7 @@ table th{
 
 .all-male-students-table {
   background-color: #000f6e;
-  margin-left: 120px;  
+  margin-left: 380px;  
 }
 
 .all-male-students-table th{
@@ -91,7 +91,7 @@ table th{
 
 .all-female-students-table {
   background-color: #99003d; 
-  margin-left: 120px;  
+  margin-left: 380px;  
 }
 
 .all-female-students-table th{
@@ -114,7 +114,7 @@ table th{
 
 .all-over21-students-table {
   background-color: #48D1CC; 
-  margin-left: 120px;   
+  margin-left: 380px;   
 }
 
 .all-over21-students-table th{
@@ -137,7 +137,7 @@ table th{
 
 .all-under21-students-table {
   background-color: #00cc00; 
-  margin-left: 120px;
+  margin-left: 380px;
 }
 
 .all-under21-students-table th{
@@ -159,7 +159,7 @@ table th{
 }
 .all-students-major-table {
   background-color: #e60000; 
-  margin-left: 500px;  
+  margin-left: 750px;  
 }
 
 .all-students-major-table th{
@@ -183,7 +183,7 @@ table th{
 
 .all-nophonenum-students-table {
   background-color: #b38f00; 
-  margin-left: 200px;  
+  margin-left: 450px;  
 }
 
 .all-nophonenum-students-table th{
@@ -206,7 +206,7 @@ table th{
 
 .all-insert-students-table {
   background-color: #af411d; 
-  margin-left: 160px;  
+  margin-left: 380px;  
 }
 
 .all-insert-students-table th{
@@ -229,7 +229,7 @@ table th{
 
 .all-delete-students-table {
   background-color: #DB7093;  
-  margin-left: 160px; 
+  margin-left: 380px; 
 }
 
 .all-delete-students-table th{
@@ -252,7 +252,7 @@ table th{
 
 .all-update-students-table {
   background-color: #663399;  
-  margin-left: 120px; 
+  margin-left: 380px; 
 }
 
 .all-update-students-table th{
